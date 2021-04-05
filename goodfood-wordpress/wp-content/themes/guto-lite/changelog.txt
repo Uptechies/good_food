@@ -1,0 +1,11 @@
+v1.0.5
+- Updated: Theme related information on style.css file
+- Updated: Text updated on readme.txt
+
+v1.0.4
+- Updated: Theme related information on style.css file
+- Updated: Text updated on readme.txt
+
+v1.0.3
+- Initial release
+
